@@ -1,5 +1,5 @@
 Feature: First
 
   Scenario: Get the webmock working
-    Given I set up mock
+    Given I login as buyer 
     Then it is working
